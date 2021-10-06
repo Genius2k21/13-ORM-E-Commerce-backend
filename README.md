@@ -31,7 +31,7 @@ A MYSQL database and backend application for an e-commerce site. Created using M
 4. npm start
 
 ## Functionality of the App
-https://github.com/Genius2k21/13-ORM-E-Commerce-backend/blob/5a37587cf99709319f0e538ecec32b7eb5778b2a/DB%20setup%20and%20start%20(2).webm
+GET by ID.gif
 https://github.com/Genius2k21/13-ORM-E-Commerce-backend/blob/5a37587cf99709319f0e538ecec32b7eb5778b2a/GET%20all.gif
 https://github.com/Genius2k21/13-ORM-E-Commerce-backend/blob/5a37587cf99709319f0e538ecec32b7eb5778b2a/GET%20all.webm
 https://github.com/Genius2k21/13-ORM-E-Commerce-backend/blob/5a37587cf99709319f0e538ecec32b7eb5778b2a/GET%20by%20ID.gif
