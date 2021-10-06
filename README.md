@@ -14,9 +14,13 @@ A MYSQL database and backend application for an e-commerce site. Created using M
 * [Questions](#questions)
 
 ## Installation
-1. Fork the repository
-2. Clone the repository
-3. Run npm install to install dependendencies
+1. npm init
+
+2. npm install mysql2
+
+3. npm install sequelize
+
+4. npm install dotenv
 
 ## Usage
 1. Run mysql -u root -p command at the root of the project
