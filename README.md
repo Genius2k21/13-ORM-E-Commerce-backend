@@ -13,7 +13,7 @@ A command line application that implements the inquirer npm package to prompt qu
 * [Questions](#questions)
 
 ## Installation
-1. For the repository
+1. Fork the repository
 2. Clone the repository
 3. Run npm install to install dependendencies
 
