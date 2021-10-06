@@ -3,7 +3,8 @@
 # readme-generator
 ![](https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square)
 ## Description
-A command line application that implements the inquirer npm package to prompt questions to the user about project information. It then uses that information to generate a professional README file.
+A MYSQL database and backend application for an e-commerce site. Created using MySQL2, Express, Sequelize and DOTENV.
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
