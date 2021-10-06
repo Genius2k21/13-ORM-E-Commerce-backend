@@ -18,7 +18,12 @@ A command line application that implements the inquirer npm package to prompt qu
 3. Run npm install to install dependendencies
 
 ## Usage
-To begin the series of questions within the prompt located in the directory containing this project. Execute the run node index.js command from the command line. Answer the subsequent questions, once completed a README.md file should be generated in the current directory.
+1. Run mysql -u root -p command at the root of the project
+2. Enter password when prompted
+   source db/schema.sql
+   quit
+3. npm run seed
+4. npm start
 
 ## Contribution
  Enter project contriburtion information here.
