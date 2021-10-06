@@ -1,0 +1,28 @@
+{
+  "name": "13-orm-e-commerce-backend",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square)\r ## Description\r A command line application that implements the inquirer npm package to prompt questions to the user about project information. It then uses that information to generate a professional README file.\r ## Table of Contents\r * [Installation](#installation)\r * [Usage](#usage)\r * [Contribution](#contribution)\r * [Tests](#tests)\r * [License](#license)\r * [Questions](#questions)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Genius2k21/13-ORM-E-Commerce-backend.git"
+  },
+  "author": "Joseph Blake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Genius2k21/13-ORM-E-Commerce-backend/issues"
+  },
+  "homepage": "https://github.com/Genius2k21/13-ORM-E-Commerce-backend#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {}
+}
